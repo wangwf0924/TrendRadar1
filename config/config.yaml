@@ -61,6 +61,28 @@ platforms:
       name: "澎湃新闻"
     - id: "cls-hot"
       name: "财联社热门"
+# 在此粘贴你的 config.yaml...
+# 或拖拽文件到编辑器区域
+# 或点击右上角"加载官网最新配置"
+    - id: "gold"
+      name: "gold"
+      url: "https://www.bing.com/news/search?q=黄金+白银&format=RSS"
+
+    - id: "ai"
+      name: "ai"
+      url: "https://www.bing.com/news/search?q=财经新闻&format=RSS"
+
+    - id: "A-stock"
+      name: "a-stock"
+      url: "https://www.bing.com/news/search?q=A股&format=RSS"
+
+    - id: "caijing"
+      name: "财经新闻"
+      url: "https://www.bing.com/news/search?q=财经新闻&format=RSS"
+   
+    - id: "oil"
+      name: "oil"
+      url: "https://www.bing.com/news/search?q=原油+石油&format=RSS"
 
 
 
